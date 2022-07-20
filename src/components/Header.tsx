@@ -22,47 +22,47 @@ export const Header = (props: any) => {
             <NavList className="active">
               <a>
                 <img src="/images/nav-home.svg" alt="navhome" />
-                <span>Home</span>
+                <span>ホーム</span>
               </a>
             </NavList>
             <NavList>
               <a>
                 <img src="/images/nav-network.svg" alt="navhome" />
-                <span>My Network</span>
+                <span>つながり</span>
               </a>
             </NavList>
             <NavList>
               <a>
                 <img src="/images/nav-jobs.svg" alt="navhome" />
-                <span>Jobs</span>
+                <span>求人</span>
               </a>
             </NavList>
             <NavList>
               <a>
                 <img src="/images/nav-messaging.svg" alt="navhome" />
-                <span>Messaging</span>
+                <span>メッセージ</span>
               </a>
             </NavList>
             <NavList>
               <a>
                 <img src="/images/nav-notifications.svg" alt="navhome" />
-                <span>Notifications</span>
+                <span>通知</span>
               </a>
             </NavList>
             <User>
               <a>
                 <img src="/images/user.svg" alt="user" />
-                <span>Me</span>
+                <span>あなた</span>
                 <img src="/images/down-icon.svg" alt="" />
               </a>
               <SignOut>
-                <a>Sign Out</a>
+                <a>サインアウト</a>
               </SignOut>
             </User>
             <Work>
               <a>
                 <img src="/images/nav-work.svg" alt="" />
-                <span>Work</span>
+                <span>その他</span>
                 <img src="/images/down-icon.svg" alt="" />
               </a>
             </Work>
